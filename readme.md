@@ -53,7 +53,7 @@ as a replacement to Order2Go I used to work on) on mobile platforms. And help mo
 as well as help with Lua scripting on these platforms. Later on I switched back to FXTS2 desktop platform: add new source of ticks 
 and do a major architecture redesign. Burned out in the end, and quit development for almost 5 months.
 
-Used stack: C++11/C++14, Objective C, Java, C#, JNI, Android, iOS, Linux, MacOS.
+Used stack: C++11/C++14, Objective C, Java, C#, JNI, Android, iOS, Linux, MacOS, switft.
 
 ## Jul 2017-Sep 2020 Freelancer on Upwork
 

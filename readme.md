@@ -98,3 +98,9 @@ I was mostly responsible for charting and scripting (Marketscope + indicators an
 As a secondary projects I used to code Order2Go (COM component for trading via FXCM) and small C# utilities and projects.
 
 Used stack: MFC, C++03/C++11, GDI+, std, boost, WinForms
+
+# Pet Projects
+
+## VBO Merge Telegram bot
+
+VBO is a telemetry format for motorsport. You get these files from such apps as RaceChrono. But RaceChorno doesn't allow you export the whole session, only by laps. And you can't analyze it properly in other software. That how this project is born: it merges multiple VBO files into session. You can find it in telegram: @vbomerge_bot

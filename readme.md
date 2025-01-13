@@ -36,7 +36,7 @@ The project goes offline in 2022 because of deletion of my Microsoft account. I 
 AzureDB to postgresql. Now the project is partly recovered, but it's not that popular any more (in 2022 it had 38K of users and telegram channels).
 I do plan to make that open source when I'll have some free time. Now it's a hobby project of mine.
 
-Used stack: dotnet core 8, webapi, EntityFramework, postgresql, AzureDB, docker, telegram bot, discord bot, chrome extensions, javascript.
+Used stack: dotnet core 8, webapi, EntityFramework, postgresql, AzureDB, docker, telegram bot, discord bot, chrome extensions, javascript, rust.
 
 ## Feb 2024-Jul 2024 C# backend developer in Lesasoft
 
@@ -53,7 +53,7 @@ as a replacement to Order2Go I used to work on) on mobile platforms. And help mo
 as well as help with Lua scripting on these platforms. Later on I switched back to FXTS2 desktop platform: add new source of ticks 
 and do a major architecture redesign. Burned out in the end, and quit development for almost 5 months.
 
-Used stack: C++11/C++14, Objective C, Java, C#, JNI, Android, iOS, Linux, MacOS, switft.
+Used stack: C++11/C++14, Objective C, Java, C#, JNI, Android, iOS, Linux, MacOS, Switft, Python.
 
 ## Jul 2017-Sep 2020 Freelancer on Upwork
 

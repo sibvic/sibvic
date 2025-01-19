@@ -104,3 +104,11 @@ Used stack: MFC, C++03/C++11, GDI+, std, boost, WinForms
 ## VBO Merge Telegram bot
 
 VBO is a telemetry format for motorsport. You get these files from such apps as RaceChrono. But RaceChorno doesn't allow you export the whole session, only by laps. And you can't analyze it properly in other software. That how this project is born: it merges multiple VBO files into session. You can find it in telegram: @vbomerge_bot
+
+Used stack: dotnet, C#
+
+## Console money
+
+[Console accounting utility](https://github.com/sibvic/consolemoney). Open source.
+
+Used stack: dotnet, C#

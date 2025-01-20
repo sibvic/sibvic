@@ -90,7 +90,7 @@ It grown up from one of my hobbies - fansabbing. I'm with a friend of mine who d
 But after that bloggers started to order translation of their videos. And now it's a commercial service for bloggers. We do translate to Russian 
 and English languages and doing voice overs. But I do not do any work there for now.
 
-## Jan 2007-Jan 2017 C++/Lua/C# backend developer in Gehtsoft
+## Jan 2007-Jan 2017 C++/Lua/C# desktop developer in Gehtsoft
 
 I used to work on desktop version of [FXCM Trade Station 2](https://www.fxcm.com/uk/platforms/trading-station/download/). 
 I was mostly responsible for charting and scripting (Marketscope + indicators and strategies on Lua). 

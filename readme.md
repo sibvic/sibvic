@@ -19,9 +19,9 @@ Used stack: dotnet core 8, webapi, EntityFramework, postgresql, blazor, signalR,
 It grown up from Upwork development. There were a lot of tasks for PineScript to MQL4/5 conversions. So, I wrote a parser of PineScript 
 + generators to MQL4/5/Lua. Rewrote it 3 times already (after figuring out that I chose the architecture incorrectly 
 and I need a completely different approach). I do sell it for another developers of trading indicators and robots. The biggest project of mine.
-2.5K of acceptance and unit tests. Available at [https://convertor.profitrobots.com/](https://convertor.profitrobots.com/)
+2.5K of acceptance and unit tests, 4 microservices. Available at [https://convertor.profitrobots.com/](https://convertor.profitrobots.com/)
 
-Used stack: dotnet core 8, webapi, EntityFramework, postgresql, blazor.
+Used stack: dotnet core 8, webapi, EntityFramework, postgresql, blazor, Kafka, Kraft, Prometheus+Grafana.
 
 ## 2015-current Indicators/strategies developer on fxcodebase.com
 
